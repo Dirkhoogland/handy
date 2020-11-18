@@ -2,3 +2,15 @@ body {
 	background-color:red;
 	
 }
+
+.container{
+	width:1000px;
+	height:auto;
+	font-family: 'Archivo', sans-serif;
+
+}
+
+.menu{
+	width:950px;
+	height:200px;
+}
